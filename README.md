@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @doylbmik
+- 👋 Hi, I’m Mike
 - 👀 I’m interested in ... Gaming, software development, learning
 - 🌱 I’m currently learning ..Python, getting my feet wet.
 - 💞️ I’m looking to collaborate on ...Anything at all, mostly looking to learn.
